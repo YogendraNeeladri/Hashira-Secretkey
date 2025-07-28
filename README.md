@@ -11,7 +11,7 @@ secretrecovery/
 │   └── index.js
 ├── package.json
 └── README.md
-⚙️ Requirements
+ Requirements
 Ensure you have Node.js installed.
 
 Installation
@@ -31,7 +31,8 @@ The program supports multiple base conversions: binary, decimal, octal, hexadeci
 It uses Lagrange Interpolation in finite fields (modulo a prime) to reconstruct the secret.
 
 This version is educational and does not provide cryptographic-grade security.
- References
+
+References
 Shamir's Secret Sharing - Wikipedia
 
 Base conversion utilities in JavaScript
