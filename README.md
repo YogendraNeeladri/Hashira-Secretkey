@@ -1,7 +1,8 @@
+#Hashira-SecretKey
 Shamir's Secret Sharing (JavaScript Version)
 This project is a simplified implementation of Shamir's Secret Sharing scheme using JavaScript. It reconstructs a secret using multiple encoded shares in different bases. The input is given via a JSON file.
 
-📁 Project Structure
+ Project Structure
 secretrecovery/
 ├── input/
 │   └── test1json
